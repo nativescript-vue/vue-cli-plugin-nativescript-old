@@ -7,5 +7,7 @@ module.exports = (api, options) => {
 
   if(options.codeSharing) {
     api.render('./template/code-share')
+  } else {
+    api.render('./template/nativescript-vue')
   }
 }
