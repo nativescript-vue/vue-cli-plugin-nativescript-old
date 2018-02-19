@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-nativescript-vue",
+  "version": "0.1.0",
+  "description": "A Vue-CLI plugin for scaffolding a NativeScript-Vue project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nativescript-vue/vue-cli-plugin-nativescript-vue.git"
+  },
+  "keywords": [
+    "nativescript",
+    "nativescript-vue",
+    "vue-cli",
+    "vue"
+  ],
+  "author": "Igor Randjelovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nativescript-vue/vue-cli-plugin-nativescript-vue/issues"
+  },
+  "homepage": "https://github.com/nativescript-vue/vue-cli-plugin-nativescript-vue#readme"
+}
